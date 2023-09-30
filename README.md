@@ -1,4 +1,4 @@
-# TripHub
+# Trip Hub
 
 ********************
 LOG IN - Credentials
