@@ -9,4 +9,4 @@ TripHub represents a portal where you can find the ideal tourist tour for your v
 It is a well-designed WPF application that offers basic sorting and search functionalities.
 Developed in C#.
 
-https://github.com/fik01/Trip-Hub/blob/main/loginPrint.png?raw=true
+![Screenshot](https://github.com/fik01/Trip-Hub/blob/main/loginPrint.png?raw=true)
